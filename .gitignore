@@ -1,0 +1,7 @@
+data
+frontend/node-modules
+.idea
+frontend/.eslintcache
+api/.env
+.DS_Store
+.vscode
